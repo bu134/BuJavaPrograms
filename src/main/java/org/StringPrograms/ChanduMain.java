@@ -1,4 +1,4 @@
-package org.example;
+package org.StringPrograms;
 
 public class ChanduMain {
 
